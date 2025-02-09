@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Implementing [Neural Turing Machines](https://arxiv.org/abs/1410.5401)
 
-- 🌱 I’m currently learning **Triton,Mamba**
+- 🌱 I’m currently learning **Cuda,Mamba**
 
 - 📫 How to reach me **ka_hamdi@esi.dz**
 
