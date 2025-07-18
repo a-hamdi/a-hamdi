@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ka_hamdi@esi.dz**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/3Cn2y7A)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jZB9aw1wP31ismVbTLQAa8LmDFERwl4O/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
