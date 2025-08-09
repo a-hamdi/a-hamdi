@@ -21,3 +21,57 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hamdi&show_icons=true&locale=en&layout=compact" alt="a-hamdi" /></p>
+
+<h3 align="left">🛠 Skills & Tools</h3>
+
+**Programming Languages**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+</p>
+
+**AI & Machine Learning**  
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
+</p>
+
+**Parallel & Distributed Computing**  
+<p>
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Triton-000000?logo=triton&logoColor=white" />
+  <img src="https://img.shields.io/badge/HIP-FF6F00?logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCL-009639?logo=opencl&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROCm-ED1C24?logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MPI-006699?logo=mpi&logoColor=white" />
+</p>
+
+**Databases**  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+**MLOps & Cloud**  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
+</p>
+
+**Data Analysis & Visualization**  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2E8B57?logo=python&logoColor=white" />
+</p>
