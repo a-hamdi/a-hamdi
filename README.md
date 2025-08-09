@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamdi Abderrahmene</h1>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=000000&background=FFFFFF00&width=550&lines=Master's+Graduate+in+Computer+Science;Specializing+in+ML,+DL+and+AI+Research;Bridging+Theory+and+Real-World+Applications;Always+Learning,+Always+Innovating" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=2F80ED&background=FFFFFF00&width=550&lines=Master's+Graduate+in+Computer+Science;Specializing+in+ML,+DL+and+AI+Research;Bridging+Theory+and+Real-World+Applications;Always+Learning,+Always+Innovating" />
 
 - 🎓 Recently graduated with a **Master's in Computer Science**
 - 🔭 Currently working on **[Neural Turing Machines](https://arxiv.org/abs/1410.5401)**
